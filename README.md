@@ -1,2 +1,3 @@
 # CSCI-assignments
-4 assignments during Fall 2018-2019
+
+CSCI 151 and CSCI 152 assignments during freshman year (2018-2019)
